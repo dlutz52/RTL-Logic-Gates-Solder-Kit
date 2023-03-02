@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "PMST2222A_115")(type "KiCad")(uri "${KIPRJMOD}/Libraries/PMST2222A,115/PMST2222A_115.kicad_sym")(options "")(descr ""))
+  (lib (name "AO3401A")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AO3401A/AO3401A.kicad_sym")(options "")(descr ""))
+  (lib (name "1062TR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/1062-2xC2032/1062TR.kicad_sym")(options "")(descr ""))
+  (lib (name "T491C226K006AT")(type "KiCad")(uri "${KIPRJMOD}/Libraries/T491C226K006AT/t491c226k006at.kicad_sym")(options "")(descr ""))
+  (lib (name "GT12MSABETR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/GT12MSABETR/GT12MSABETR.kicad_sym")(options "")(descr ""))
+  (lib (name "AMS1117-5.0")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AMS1117-5V/AMS1117-5.0.kicad_sym")(options "")(descr ""))
+  (lib (name "RS187R05A2DSMTRT")(type "KiCad")(uri "${KIPRJMOD}/Libraries/RS187R05A2DSMTRT/RS187R05A2DSMTRT.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "logic_gates_footprints")(type "KiCad")(uri "${KIPRJMOD}/Libraries/logic_gates_footprints")(options "")(descr ""))
+)
