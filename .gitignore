@@ -1,7 +1,3 @@
-# do not include .gitignore for now
-#/.gitignore
-#.*
-#.*/
 *.sch-bak
 *.kicad_pcb-bak
 *.bak
@@ -10,6 +6,5 @@ rtl-logic-gates-c2032-smd_final-backups/
 logic-gates-gerber/
 misc/
 rtl-logic-gates-archive/
-report.txt
-*.*.xxx
-*.xxx
+readme.txt
+
