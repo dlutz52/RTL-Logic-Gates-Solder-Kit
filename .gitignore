@@ -1,0 +1,14 @@
+# do not include .gitignore for now
+#/.gitignore
+#.*
+#.*/
+*.sch-bak
+*.kicad_pcb-bak
+*.bak
+*.kicad_prl
+rtl-logic-gates-c2032-smd_final-backups/
+logic-gates-gerber/
+misc/
+report.txt
+*.*.xxx
+*.xxx
